@@ -181,6 +181,7 @@ async function getResponse(prompt) {
             let response = await rl.question("User: ");
             if (response.trim().toLowerCase() == "exit" || response.trim().toLowerCase() == "quite") {
                 console.log("\n Bye ");
+                process.exit(1);
             }
             const resultFromGemini = await getResponseFromGemini(response);
             const resultFromgroq = await getResponseFromGroq(response);
