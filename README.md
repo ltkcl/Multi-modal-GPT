@@ -4,7 +4,7 @@
 
 <div align="center">
   <div style="border: 2px dashed #999; border-radius: 12px; min-height: 320px; display: flex; align-items: center; justify-content: center; margin: 24px 0; color: #777;">
-    <em>Screenshot From 2026-07-16 12-08-04.png</em>
+    <img src="demo.png" alt="Description" width="400">
   </div>
 </div>
 
