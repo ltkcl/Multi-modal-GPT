@@ -2,6 +2,12 @@
 
 > A terminal-first multi-model assistant that generates three candidate answers, evaluates them, and returns the strongest response.
 
+<div align="center">
+  <div style="border: 2px dashed #999; border-radius: 12px; min-height: 320px; display: flex; align-items: center; justify-content: center; margin: 24px 0; color: #777;">
+    <em>Screenshot From 2026-07-16 12-08-04.png</em>
+  </div>
+</div>
+
 ## At A Glance
 
 - `CLI-based` backend application
