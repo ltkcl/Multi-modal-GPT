@@ -10,6 +10,12 @@
 
 ## At A Glance
 
+<div align="center">
+  <div style="border: 2px dashed #999; border-radius: 12px; min-height: 320px; display: flex; align-items: center; justify-content: center; margin: 24px 0; color: #777;">
+    <img src="demo.png" alt="Description" width="400" height="400">
+  </div>
+</div>
+
 - `CLI-based` backend application
 - Multi-model generation with a separate evaluator
 - Structured JSON responses for consistent output
