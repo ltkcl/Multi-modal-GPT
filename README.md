@@ -94,17 +94,8 @@ The self-consistency flow lives in `engine.js` and follows a simple generate -> 
 - `package.json` lists runtime dependencies
 - `.env` stores API keys and base URLs
 
-## Environment Variables
-
-The app expects values similar to these in `.env`:
-
-- `GOOGLE_API`
-- `GOOGLE_URL`
-- `GROQ_API`
-- `GROQ_URL`
 
 ## Notes
 
 - Type `exit` or `quit` to leave the app.
 - The evaluator is intentionally strict and uses unique scores so only one winner is selected.
-- To add the real screenshot later, replace `./assets/screenshot-1.png` with your image file.
